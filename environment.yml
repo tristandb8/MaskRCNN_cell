@@ -1,4 +1,4 @@
-name: maskrcnn_Cell
+name: maskrcnn_Cell1
 channels:
   - anaconda
   - https://repo.anaconda.com/pkgs/free
